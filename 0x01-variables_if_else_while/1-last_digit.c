@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
  * main- Entry point - Prints out details of the last digit of a number
  * Return: 0
